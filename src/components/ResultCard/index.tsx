@@ -14,7 +14,6 @@ const ResultCard = ( { title, description, url} : Props) => {
         <h3 className="result-title">{title}</h3>
         <p className="result-description">{description}</p>
         </div>
-        );
-        }
+    )};
         
 export default ResultCard;
