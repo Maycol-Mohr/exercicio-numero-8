@@ -18,6 +18,7 @@
   padding: 30px 40px;
   background-color: #E6F7FF;
   border-radius: 10px;
+  
 }
 
 .search-container button {
@@ -84,6 +85,8 @@
   margin-top: 50px;
   padding-top: 30px;
   padding-bottom: 30px;
+  display: flex;
+  flex-direction: column;
 }
 
 .linha2 h2 {

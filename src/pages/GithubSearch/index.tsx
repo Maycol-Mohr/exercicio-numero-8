@@ -16,7 +16,7 @@ type Address = {
   avatar_url: string;
 }
 
-const CepSearch = () => {
+const GithubSearch = () => {
 
   const [address, setAddress] = useState<Address>();
 
@@ -82,4 +82,4 @@ const CepSearch = () => {
   );
 };
 
-export default CepSearch;
+export default GithubSearch;

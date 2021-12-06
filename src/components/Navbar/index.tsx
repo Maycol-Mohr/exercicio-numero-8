@@ -8,8 +8,7 @@ const Navbar = () => {
       <Link to="/" className="nav-logo-text">
         <h4>Github API</h4>
       </Link>
-    </nav>
-    
+    </nav> 
   );
 };
 
