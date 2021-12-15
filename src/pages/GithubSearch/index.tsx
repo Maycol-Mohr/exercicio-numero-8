@@ -1,5 +1,6 @@
 import './styles.css';
 
+
 import ResultCard from 'components/ResultCard';
 import { useState } from 'react';
 import axios from 'axios';
