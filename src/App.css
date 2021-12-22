@@ -15,9 +15,3 @@ h5,
 h6 {
   font-weight: bold;
 }
-
-a,
-a:hover {
-  text-decoration: none;
-  color: unset;
-}
